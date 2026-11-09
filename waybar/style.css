@@ -1,0 +1,9 @@
+/* One disc per session. Slots without a session are hidden by Waybar. */
+#image.claude-dots-1,
+#image.claude-dots-2,
+#image.claude-dots-3,
+#image.claude-dots-4,
+#image.claude-dots-5,
+#image.claude-dots-6 {
+    margin: 0 2px;
+}
